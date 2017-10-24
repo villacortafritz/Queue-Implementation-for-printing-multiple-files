@@ -5,6 +5,8 @@ scenario of a single printer printing multiple documents
 with different number of pages given a fixed time of 5 seconds in
 printing a single page.
 
+Program is written in C language.
+
 Functions include:
   peek, 
   display, 
